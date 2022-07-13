@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WireSeeker</string>
+    <string name="edit_message">输入线号</string>
+    <string name="button_send">Send</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textview">TextView</string>
+    <string name="setting">设置</string>
+    <string name="about">关于</string>
+    <string name="main_title">WireSeeker 1.0</string>
+    <string name="about_text">\nA WireSeeker for Android, Written by BlueSkyBone.\n\nOpen source in github.\n\n
+    https://github.com/blueskybone/WireSeeker</string>
+    <string name="switch_mode">深色模式</string>
+    <string name="change_word">更改字体大小</string>
+</resources>

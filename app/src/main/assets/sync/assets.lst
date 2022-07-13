@@ -1,0 +1,12 @@
+cn-digits-semi/feat.params
+cn-digits-semi/mdef
+cn-digits-semi/means
+cn-digits-semi/mixture_weights
+cn-digits-semi/noisedict
+cn-digits-semi/sendump
+cn-digits-semi/transition_matrices
+cn-digits-semi/variances
+wireseeker_db.dic
+wireseeker_db.gram
+wireseeker_db.lm.DMP
+wireseeker_db.lm.bin
